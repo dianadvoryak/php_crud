@@ -1,4 +1,4 @@
-#Features
+Features
 
 Read users JSON file and display data in bootstrap table
 Implement create and update forms for a user

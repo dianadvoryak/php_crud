@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Brianne Howey",
+        "username": "Brianne",
+        "email": "Julianne.OConner@kory.org",
+        "phone": "123451234",
+        "website": "kale.biz",
+        "extension": "png"
+    },
+    {
+        "id": 2,
+        "name": "Ginny Miller",
+        "username": "Ginny",
+        "email": "Lucio_Hettinger@annie.ca",
+        "phone": "453218563",
+        "website": "demarco.info",
+        "extension": "png"
+    },
+    {
+        "id": 3,
+        "name": "Mrs. Dennis Schulist",
+        "username": "Dennis_Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "phone": "1078412367",
+        "website": "ola.org",
+        "extension": "png"
+    },
+    {
+        "id": 4,
+        "name": "Marcus Baker",
+        "username": "Marcus.Baker",
+        "email": "Telly.Hoeger@billy.biz",
+        "phone": "2100676132",
+        "website": "elvis.io",
+        "extension": "png"
+    },
+    {
+        "id": 5,
+        "name": "Nicholas Runolfsdottir V",
+        "username": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "phone": "5864936943",
+        "website": "jacynthe.com",
+        "extension": "png"
+    },
+    {
+        "id": 6,
+        "name": "Paul Randolph",
+        "username": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "phone": "(775)976-6794",
+        "website": "conrad.com",
+        "extension": "png"
+    },
+    {
+        "id": 7,
+        "name": "Ellen Baker",
+        "username": "Ellen.Baker",
+        "email": "Rey.Padberg@karina.biz",
+        "phone": "024-648-3804",
+        "website": "ambrose.net",
+        "extension": "png"
+    }
+]

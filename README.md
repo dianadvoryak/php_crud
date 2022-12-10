@@ -1,7 +1,3 @@
-#PHPSimpleCRUD-FS
-
-Simple PHP CRUD application with data saved in JSON file
-
 #Features
 
 Read users JSON file and display data in bootstrap table
